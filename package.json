@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "COMP3104 - Developer Operations",
   "main": "index.js",
-  "homepage": "https://<your-username>.github.io/<repository-name>",
+  "homepage": "https://FahadAl-Hadeethi.github.io/COMP3104",
   "scripts": {
     "test": "react-scripts test",
     "start": "react-scripts start",
